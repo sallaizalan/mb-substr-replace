@@ -1,4 +1,4 @@
-# rrmdir
+# mb_substr_replace
 
 > substr_replace for unicode characters.
 
