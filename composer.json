@@ -1,0 +1,21 @@
+{
+    "name": "threshold/mb-substr-replace",
+    "description": "substr_replace for unicode characters.",
+    "keywords": ["php", "mb_substr", "mb_substr_replace", "unicode", "substr_replace"],
+    "type": "package",
+    "license": "MIT",
+    "homepage": "https://github.com/sallaizalan/mb-substr-replace",
+    "authors": [
+        {
+            "name": "Zalán Sallai",
+            "email": "sallai.zalan@gmail.com",
+            "homepage": "http://threshold.hu"
+        }
+    ],
+    "autoload": {
+        "files": ["mbsubstrreplace.php"]
+    },
+    "require": {
+        "php": ">=5.3"
+    }
+}
